@@ -1,5 +1,5 @@
 # Capstone-Project
 
-The aim of my project is to predict the group (Top 25, Top 25 - 50, Top 50 - 75, Top 75 -100) a song in the billboard 100 belongs to, based on the lyrics in the song. Indeed, the ultimate questions is how much do lyrics and words matter, versus other features such as the beat and artist popularity?
+The aim of my project is to predict the group (Top 25, Top 25 - 50, Top 50 - 75, Top 75 -100) a song in the Billboard 100 belongs to, based on the lyrics in the song. Indeed, the ultimate questions is how much do rythem and words matter, versus other features such as the rhythm and artist popularity?
 
 In order to investigate this questions various Natural language processing tools were used including CountVectozier, TF-IDF, Sentiment Analysis and Part of Speech Tagging. An additional feature explored was the repetitiveness of a song,using the Zopfli compression algorithm.
