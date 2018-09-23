@@ -1,4 +1,4 @@
-# Capstone-Project
+# NLP on Billboard 100 Songs
 
 The aim of my project is to predict the group (Top 25, Top 25 - 50, Top 50 - 75, Top 75 -100) a song in the Billboard 100 belongs to, based on the lyrics in the song. Indeed, the ultimate questions is how much do rythem and words matter, versus other features such as the rhythm and artist popularity?
 
